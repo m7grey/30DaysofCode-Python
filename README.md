@@ -1,4 +1,4 @@
-30DaysofCode
+30 Days of Code
 ============
 HackerRank 30 Days of Code Challenges (2018) written in Python 3.
 
